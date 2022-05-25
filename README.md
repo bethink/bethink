@@ -15,7 +15,7 @@ I'm Manojkumar, Fullstack developer delivering Ruby/Rails, Java/Spring boot and 
 
 ## Projects and Experience
 
-#### Web3 Wallet      April 2018 - April 2022 | at Guardian Link | Role: Technical Architect
+#### Web3 Wallet                                                       April 2018 - April 2022 | at Guardian Link | Role: Technical Architect
 One-Click login for Web 3.0, Mainstream users' gateway to the decentralized ecosystem via a login they are familiar with.
 
 Wallet provides a direct connection to Ethereum and other blockchains via a metamask esque style. Out of the box, it supports OAuth social logins and native biometric logins, fiat-to-crypto and much more.
