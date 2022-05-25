@@ -1,8 +1,10 @@
 ### Hi! 👋
 
-I'm Manojkumar, Fullstack developer delivering Ruby/Rails and Java/Spring boot applications in the past 13 years. I am Passionate in developing best in class applications with the cutting edge technologies. I believe in Readable, Reusable, Testable and Tested code.
+I'm Manojkumar, Fullstack developer delivering Ruby/Rails, Java/Spring boot and NodeJS applications. I am Passionate in developing best in class applications with the cutting edge technologies. I believe in Readable, Reusable, Testable and Tested code.
 
-🔭 I work at BNY Mellon, Chennai, India  |  April 2018 - Present
+🔭 I work at Guardian, Chennai, India  |  April 2022 - Present
+
+🔭 Worked at BNY Mellon, Chennai, India  |  April 2018 - April 2022
 
 🔭 Worked at Junper Networks, Bangalore, India  |  Septermber 2012 - April 2018
 
@@ -11,11 +13,19 @@ I'm Manojkumar, Fullstack developer delivering Ruby/Rails and Java/Spring boot a
 🔭 Worked at Srishti software, Bangalore, India   |  June 2008 - December 2010
 
 
-
 ## Projects and Experience
 
+#### Web3 Wallet      April 2018 - April 2022 | at Guardian Link | Role: Technical Architect
+One-Click login for Web 3.0, Mainstream users' gateway to the decentralized ecosystem via a login they are familiar with.
 
-#### Middle office - Accounting Gateway      April 2018 - Present | at BNY Mellon | Role: Full stack developer
+Wallet provides a direct connection to Ethereum and other blockchains via a metamask esque style. Out of the box, it supports OAuth social logins and native biometric logins, fiat-to-crypto and much more.
+
+Responsibilities: Design and Development
+
+Technologies used: Web3, NodeJS, ExpressJS, Ruby, Rails, ReactJS, Postgres, OrbitDB
+
+
+#### Middle office - Accounting Gateway      April 2018 - April 2022 | at BNY Mellon | Role: Full stack developer
 Accounting gateway application consists of various micro services which receives various types of Trade and Cash transactions, resolves the account and securities, validates various aspects of client message and accounting system aspects and finally delivers the client message to accounting system and IBOR system.
 
 Responsibilities: Onboarding the clients, Requirement Analysis, Talk to various stackholder, Setup the service pipeline, Refactor/Develop the Ruby/Java micro services, deploy and support.
