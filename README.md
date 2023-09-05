@@ -1,6 +1,10 @@
 ### Hi! 👋
 
-I'm Manojkumar, Fullstack developer delivering Ruby/Rails, Java/Spring boot and NodeJS applications. I am Passionate in developing best in class applications with the cutting edge technologies. I believe in Readable, Reusable, Testable and Tested code.
+I'm Manojkumar, a full-stack developer who specializes in creating top-tier applications using cutting-edge technologies. My passion lies in crafting software that is not only of the highest quality but also adheres to principles of readability, reusability, and rigorous testing.
+
+I have experience in building applications across various technology stacks, including Ruby on Rails, Java with Spring Boot, and Node.js. This diverse skill set enables me to tackle a wide range of projects effectively, leveraging the strengths of each technology.
+
+If you ever have inquiries, need assistance with coding challenges, or seek information on any aspect of software development, please don't hesitate to reach out. I'm here to provide assistance and support!
 
 🔭 I work at Guardian, Chennai, India  |  April 2022 - Present
 
